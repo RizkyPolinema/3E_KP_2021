@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: fdc170559d8c82b45af7d2e1b010fd12
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Xolonium
+  fontNames:
+  - Xolonium
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f1135e10c7354ce4c96ffb49dc23eae8, type: 3}
+  - {fileID: 12800000, guid: f89883a2c632e1a45a919b19dcc046ec, type: 3}
+  - {fileID: 12800000, guid: 341a664356cbd13468a4746a264858ee, type: 3}
+  - {fileID: 12800000, guid: e4843b536c9b8d740afa22956d487112, type: 3}
+  - {fileID: 12800000, guid: 040f90f3e7cd2234c976da862f9a7b53, type: 3}
+  - {fileID: 12800000, guid: 50b48a74356f89346906f50a76e5eb8f, type: 3}
+  - {fileID: 12800000, guid: 147ac336464da2a4895c845c43f954e8, type: 3}
+  - {fileID: 12800000, guid: d8aa47a6cbd458a48b90ee7d0ae2f9d0, type: 3}
+  - {fileID: 12800000, guid: 494e66b8c0a9a3944b3d3216b25f08d1, type: 3}
+  - {fileID: 12800000, guid: 893013d8d6b5f0f498b8696ba95cf83a, type: 3}
+  - {fileID: 12800000, guid: 8ab83b6dc64ced44ebf79757f894c775, type: 3}
+  - {fileID: 12800000, guid: 4a9f9eed5aea86549b8d066b6f9d98ae, type: 3}
+  - {fileID: 12800000, guid: 343a3c3f9d45b474f9eaaaa7889563de, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
